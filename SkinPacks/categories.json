@@ -50,5 +50,10 @@
     "Spider-Man",
     "Hulk",
     "Captain America"
+  ],
+  "Seasons": [
+    "Spring",
+    "Winter",
+    "Autumn"
   ]
 }
