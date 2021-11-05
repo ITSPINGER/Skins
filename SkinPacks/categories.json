@@ -10,7 +10,10 @@
     "Squid Game",
     "Breaking Bad",
     "Money Heist",
-    "Stranger Things"
+    "Stranger Things",
+    "The Office",
+    "The Office",
+    "Game of Thrones"
   ],
   "Games": [
     "CSGO",
@@ -25,7 +28,8 @@
     "Mickey Mouse",
     "Looney Tunes",
     "Scooby Doo",
-    "South Park"
+    "South Park",
+    "Rick and Morty"
   ],
   "Brands": [
     "Gucci",
@@ -54,6 +58,7 @@
   "Seasons": [
     "Spring",
     "Winter",
-    "Autumn"
+    "Autumn",
+    "Summer"
   ]
 }
