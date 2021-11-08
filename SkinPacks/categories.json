@@ -62,6 +62,9 @@
     "Summer"
   ],
   "Sports": [
-    "Karate"
+    "Karate",
+    "Basketball",
+    "Volleyball",
+    "Football"
   ]
 }
