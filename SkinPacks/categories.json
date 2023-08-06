@@ -6,19 +6,13 @@
     "One Piece",
     "Dragon Ball Z"
   ],
-  "Series": [
-    "Squid Game",
-    "Breaking Bad",
-    "Money Heist",
-    "Stranger Things",
-    "The Office",
-    "Game of Thrones"
-  ],
-  "Games": [
-    "CSGO",
-    "Among Us",
-    "Fortnite",
-    "Pokemon"
+  "Brands": [
+    "Gucci",
+    "Supreme",
+    "Nike",
+    "Adidas",
+    "Louis Vouitton",
+    "Rolex"
   ],
   "Cartoons": [
     "Tom \u0026 Jerry",
@@ -31,13 +25,11 @@
     "South Park",
     "Rick and Morty"
   ],
-  "Brands": [
-    "Gucci",
-    "Supreme",
-    "Nike",
-    "Adidas",
-    "Louis Vouitton",
-    "Rolex"
+  "Games": [
+    "CSGO",
+    "Among Us",
+    "Fortnite",
+    "Pokemon"
   ],
   "Movies": [
     "Shrek",
@@ -60,6 +52,14 @@
     "Winter",
     "Autumn",
     "Summer"
+  ],
+  "Series": [
+    "Squid Game",
+    "Breaking Bad",
+    "Money Heist",
+    "Stranger Things",
+    "The Office",
+    "Game of Thrones"
   ],
   "Sports": [
     "Karate",
